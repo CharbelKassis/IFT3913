@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/uml/gui/UML_FileChooser.java=UTF-8
+encoding//src/uml/gui/UML_MetriqueList.java=UTF-8
+encoding//src/uml/gui/controller/UML_CSV_MetriqueListener.java=UTF-8
+encoding//src/uml/gui/controller/UML_MetriqueListener.java=UTF-8
+encoding//src/uml/gui/controller/UML_MetriqueMouseListener.java=UTF-8
+encoding//src/uml/metrique/ANA_Metrique.java=UTF-8
+encoding//src/uml/metrique/CAC_Metrique.java=UTF-8
+encoding//src/uml/metrique/CLD_Metrique.java=UTF-8
+encoding//src/uml/metrique/DIT_Metrique.java=UTF-8
+encoding//src/uml/metrique/ETC_Metrique.java=UTF-8
+encoding//src/uml/metrique/ITC_Metrique.java=UTF-8
+encoding//src/uml/metrique/MetriqueBuilder.java=UTF-8
+encoding//src/uml/metrique/NOA_Metrique.java=UTF-8
+encoding//src/uml/metrique/NOM_Metrique.java=UTF-8
